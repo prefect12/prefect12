@@ -2,9 +2,6 @@
 
 I'm a Backend and Platform Developer in the advertising industry, primarily using Golang. I specialize in developing high-performance, low-latency servers.
 
-### Skills
-⭐️
-
 ---
 
 <a href="">
