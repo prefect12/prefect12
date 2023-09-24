@@ -6,6 +6,7 @@ I'm a Backend and platform developer, mainly use Golang and
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prefect12&theme=outrun&layout=compact&" />
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=prefect12&show_icons=true&theme=outrun&langs_count=8" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prefect12&theme=outrun&layout=compact&" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prefect12&show_icons=true&theme=outrun" />
