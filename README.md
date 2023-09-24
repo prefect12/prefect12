@@ -1,6 +1,6 @@
 ## Hi,I'm Kade 👏
 
-I'm a Backend and Platform Developer in the advertising industry, primarily using Golang. I specialize in developing high-performance, low-latency servers.
+I'm a backend and platform Developer in the advertising industry, primarily using Golang. I specialize in developing high-performance, low-latency servers.
 
 ---
 
