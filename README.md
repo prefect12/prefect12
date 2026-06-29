@@ -4,9 +4,7 @@ I'm a backend and platform Developer in the advertising industry, primarily usin
 
 ---
 
-<a href="">
-    <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=prefect12&theme=outrun&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prefect12&show_icons=true&theme=outrun" />
-</a>
+<p>
+  <img height="200" alt="Kade's GitHub stats" src="./assets/github-stats.svg" />
+  <img height="200" alt="Kade's top languages" src="./assets/top-languages.svg" />
+</p>
