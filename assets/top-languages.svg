@@ -7,25 +7,25 @@
   <clipPath id="barClip"><rect x="24" y="54" width="312" height="10" rx="5"/></clipPath>
   <rect x="24" y="54" width="312" height="10" rx="5" fill="#21262D"/>
   <g clip-path="url(#barClip)">
-  <rect x="24" y="54" width="114.14" height="10" fill="#F05138"/>
-  <rect x="138.1388347894748" y="54" width="72.41" height="10" fill="#3572A5"/>
-  <rect x="210.5450941329805" y="54" width="48.52" height="10" fill="#E34C26"/>
-  <rect x="259.0666422186872" y="54" width="36.21" height="10" fill="#DA5B0B"/>
-  <rect x="295.2719193480979" y="54" width="16.04" height="10" fill="#3178C6"/>
-  <rect x="311.31033571370756" y="54" width="10.13" height="10" fill="#F1E05A"/>
+  <rect x="24" y="54" width="115.07" height="10" fill="#F05138"/>
+  <rect x="139.06542197432378" y="54" width="72.06" height="10" fill="#3572A5"/>
+  <rect x="211.1280339923875" y="54" width="48.29" height="10" fill="#E34C26"/>
+  <rect x="259.4192939734864" y="54" width="36.03" height="10" fill="#DA5B0B"/>
+  <rect x="295.452737248128" y="54" width="15.96" height="10" fill="#3178C6"/>
+  <rect x="311.4150336907042" y="54" width="10.08" height="10" fill="#F1E05A"/>
   </g>
   <circle cx="30" cy="88" r="4" fill="#F05138"/>
   <text x="42" y="92" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Swift</text>
-  <text x="292" y="92" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">36.6%</text>
+  <text x="292" y="92" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">36.9%</text>
   <circle cx="30" cy="106" r="4" fill="#3572A5"/>
   <text x="42" y="110" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Python</text>
-  <text x="292" y="110" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">23.2%</text>
+  <text x="292" y="110" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">23.1%</text>
   <circle cx="30" cy="124" r="4" fill="#E34C26"/>
   <text x="42" y="128" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">HTML</text>
-  <text x="292" y="128" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">15.6%</text>
+  <text x="292" y="128" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">15.5%</text>
   <circle cx="30" cy="142" r="4" fill="#DA5B0B"/>
   <text x="42" y="146" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Jupyter Notebook</text>
-  <text x="292" y="146" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">11.6%</text>
+  <text x="292" y="146" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">11.5%</text>
   <circle cx="30" cy="160" r="4" fill="#3178C6"/>
   <text x="42" y="164" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">TypeScript</text>
   <text x="292" y="164" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">5.1%</text>
