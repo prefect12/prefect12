@@ -7,12 +7,12 @@
   <clipPath id="barClip"><rect x="24" y="54" width="312" height="10" rx="5"/></clipPath>
   <rect x="24" y="54" width="312" height="10" rx="5" fill="#21262D"/>
   <g clip-path="url(#barClip)">
-  <rect x="24" y="54" width="144.86" height="10" fill="#F05138"/>
-  <rect x="168.86379401802674" y="54" width="57.48" height="10" fill="#3572A5"/>
-  <rect x="226.34492372434408" y="54" width="38.52" height="10" fill="#E34C26"/>
-  <rect x="264.86470674246766" y="54" width="28.74" height="10" fill="#DA5B0B"/>
-  <rect x="293.60697639702465" y="54" width="20.54" height="10" fill="#3178C6"/>
-  <rect x="314.14512799452194" y="54" width="8.23" height="10" fill="#F1E05A"/>
+  <rect x="24" y="54" width="144.89" height="10" fill="#F05138"/>
+  <rect x="168.89213649472288" y="54" width="57.47" height="10" fill="#3572A5"/>
+  <rect x="226.36351871652843" y="54" width="38.51" height="10" fill="#E34C26"/>
+  <rect x="264.8767696607299" y="54" width="28.74" height="10" fill="#DA5B0B"/>
+  <rect x="293.6141652839357" y="54" width="20.53" height="10" fill="#3178C6"/>
+  <rect x="314.14883408080567" y="54" width="8.23" height="10" fill="#F1E05A"/>
   </g>
   <circle cx="30" cy="88" r="4" fill="#F05138"/>
   <text x="42" y="92" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Swift</text>
