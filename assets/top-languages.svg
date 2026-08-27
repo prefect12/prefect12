@@ -7,12 +7,12 @@
   <clipPath id="barClip"><rect x="24" y="54" width="312" height="10" rx="5"/></clipPath>
   <rect x="24" y="54" width="312" height="10" rx="5" fill="#21262D"/>
   <g clip-path="url(#barClip)">
-  <rect x="24" y="54" width="145.68" height="10" fill="#F05138"/>
-  <rect x="169.6776815896289" y="54" width="57.20" height="10" fill="#3572A5"/>
-  <rect x="226.87890080740334" y="54" width="38.33" height="10" fill="#E34C26"/>
-  <rect x="265.21110763594504" y="54" width="28.60" height="10" fill="#DA5B0B"/>
-  <rect x="293.8134137445184" y="54" width="20.44" height="10" fill="#3178C6"/>
-  <rect x="314.2515526234627" y="54" width="8.19" height="10" fill="#F1E05A"/>
+  <rect x="24" y="54" width="145.70" height="10" fill="#F05138"/>
+  <rect x="169.69551400060243" y="54" width="57.20" height="10" fill="#3572A5"/>
+  <rect x="226.89060033339172" y="54" width="38.33" height="10" fill="#E34C26"/>
+  <rect x="265.21869733667234" y="54" width="28.60" height="10" fill="#DA5B0B"/>
+  <rect x="293.81793682086123" y="54" width="20.44" height="10" fill="#3178C6"/>
+  <rect x="314.2538844046414" y="54" width="8.19" height="10" fill="#F1E05A"/>
   </g>
   <circle cx="30" cy="88" r="4" fill="#F05138"/>
   <text x="42" y="92" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Swift</text>
@@ -28,7 +28,7 @@
   <text x="292" y="146" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">9.2%</text>
   <circle cx="30" cy="160" r="4" fill="#3178C6"/>
   <text x="42" y="164" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">TypeScript</text>
-  <text x="292" y="164" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">6.6%</text>
+  <text x="292" y="164" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">6.5%</text>
   <circle cx="30" cy="178" r="4" fill="#F1E05A"/>
   <text x="42" y="182" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">JavaScript</text>
   <text x="292" y="182" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">2.6%</text>
