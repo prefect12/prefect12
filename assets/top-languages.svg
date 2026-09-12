@@ -7,12 +7,12 @@
   <clipPath id="barClip"><rect x="24" y="54" width="312" height="10" rx="5"/></clipPath>
   <rect x="24" y="54" width="312" height="10" rx="5" fill="#21262D"/>
   <g clip-path="url(#barClip)">
-  <rect x="24" y="54" width="151.17" height="10" fill="#F05138"/>
-  <rect x="175.16599429302372" y="54" width="55.29" height="10" fill="#3572A5"/>
-  <rect x="230.46003476663714" y="54" width="37.05" height="10" fill="#E34C26"/>
-  <rect x="267.5141854439306" y="54" width="27.65" height="10" fill="#DA5B0B"/>
-  <rect x="295.1628456164518" y="54" width="19.76" height="10" fill="#3178C6"/>
-  <rect x="314.9195447538456" y="54" width="7.91" height="10" fill="#F1E05A"/>
+  <rect x="24" y="54" width="151.47" height="10" fill="#F05138"/>
+  <rect x="175.47079930707622" y="54" width="55.19" height="10" fill="#3572A5"/>
+  <rect x="230.66004912581855" y="54" width="36.98" height="10" fill="#E34C26"/>
+  <rect x="267.64397652621074" y="54" width="27.60" height="10" fill="#DA5B0B"/>
+  <rect x="295.24023826336764" y="54" width="19.72" height="10" fill="#3178C6"/>
+  <rect x="314.9594954373425" y="54" width="7.90" height="10" fill="#F1E05A"/>
   </g>
   <circle cx="30" cy="88" r="4" fill="#F05138"/>
   <text x="42" y="92" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Swift</text>
@@ -25,7 +25,7 @@
   <text x="292" y="128" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">11.9%</text>
   <circle cx="30" cy="142" r="4" fill="#DA5B0B"/>
   <text x="42" y="146" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Jupyter Notebook</text>
-  <text x="292" y="146" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">8.9%</text>
+  <text x="292" y="146" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">8.8%</text>
   <circle cx="30" cy="160" r="4" fill="#3178C6"/>
   <text x="42" y="164" fill="#C9D1D9" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">TypeScript</text>
   <text x="292" y="164" fill="#8B949E" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12" text-anchor="end">6.3%</text>
